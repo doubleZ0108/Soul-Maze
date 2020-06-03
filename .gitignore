@@ -61,5 +61,8 @@ crashlytics-build.properties
 .DS_Store
 Standard Assets/
 Spirit Assets/
+Component Assets/
 Standard Assets.meta
 Spirit Assets.meta
+Component Assets.meta
+
