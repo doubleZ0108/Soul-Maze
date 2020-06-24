@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - HeartFull
+  - FragmentEmpty
+  - Fragment
+  - Heart
+  - San
+  - HeartEmpty
+  - Sign
+  - FragmentContent6
+  - FragmentContent3
+  - FragmentContent8
+  - FragmentContent7
+  - FragmentContent4
+  - FragmentContent9
+  - FragmentContent5
+  - FragmentContent2
+  - FragmentContent1
+  - ai0
+  - Fire
+  - ai1
+  - ai2
+  - ai3
+  - ai4
+  - ai5
+  - ai6
+  - ai7
+  - ai8
+  - ai9
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
