@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.UI;//注意这个不能少
-//using UnityEditor.Sprites;
+
 using UnityEngine;
 
 

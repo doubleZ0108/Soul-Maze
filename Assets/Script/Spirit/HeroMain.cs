@@ -20,7 +20,8 @@ public class HeroMain : MonoBehaviour
     private int frg;
     private int hp;
     private GameObject sanFill;
-
+    private string[] hpName={"HeartF5","HeartF4","HeartF3","HeartF2","HeartF1"};
+    private string[] fragName={"Yellow","Orange","Green","Blue","Pink","Cyan","Red","Purple","Silver"};
     private float territoryBorder = 40.0f;
 
     void Start()
@@ -31,8 +32,17 @@ public class HeroMain : MonoBehaviour
         //StopCoroutine("HeroSanTimer");
 
         //heart san fragment
-        heartsFull = GameObject.FindGameObjectsWithTag("HeartFull");
-        fragments = GameObject.FindGameObjectsWithTag("Fragment");
+        heartsFull = new GameObject[5];
+        fragments= new GameObject[9];
+        for(int i=0;i<5;i++)
+        {
+            heartsFull[i]=GameObject.Find(hpName[i]);
+        }
+        for(int i=0;i<9;i++)
+        {
+            fragments[i]=GameObject.Find(fragName[i]);
+        }
+        //fragments = GameObject.FindGameObjectsWithTag("Fragment");
         frg = 0;
         hp = Hero._maxHp;
         sanFill = GameObject.Find("Fill");

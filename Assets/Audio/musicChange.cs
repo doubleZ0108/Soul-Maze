@@ -6,7 +6,7 @@ public class musicChange : MonoBehaviour
 {
     //存放音频的数组
     public AudioClip[] audios;
-    private AudioSource bgmAudio;
+    private static AudioSource bgmAudio;
 
     public static bool alarmBig = false;
     public static bool alarmSmall = false;
@@ -22,19 +22,21 @@ public class musicChange : MonoBehaviour
     private static bool startAudioalarmSmall = true;
 
     public static bool musicOn = true;
+    private static float volumn;
     // Use this for initialization
     void Start()
     {
         //默认播放第1个音频
         bgmAudio = this.GetComponent<AudioSource>();
         bgmAudio.clip = audios[0];
+        alarmBig = false;
         bgmAudio.Play();
     }
 
     // Update is called once per frame
     void Update()
     {
-        if(musicOn)
+        if (musicOn)
         {
             if (alarmBig)
             {
@@ -148,7 +150,10 @@ public class musicChange : MonoBehaviour
                 }
             }
         }
-        
+        else
+        {
+            bgmAudio.volume = 0f;
+        }
 
         //}
         //else
@@ -284,6 +289,14 @@ public class musicChange : MonoBehaviour
 
     public static void toggleMusic()
     {
+        if (musicOn)
+        {
+            volumn = bgmAudio.volume;
+        }
+        else
+        {
+            bgmAudio.volume = volumn;
+        }
         musicOn = !musicOn;
     }
 }
