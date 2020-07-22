@@ -1,4 +1,4 @@
-# <img src="https://upload-images.jianshu.io/upload_images/12014150-8d87ea479e20bb51.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width="10%;" />译梦机 | Soul Maze
+# <img src="https://upload-images.jianshu.io/upload_images/12014150-8d87ea479e20bb51.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width="10%;" /> 译梦机 | Soul Maze
 
 Table of Contents
 =================
@@ -86,7 +86,7 @@ Table of Contents
 
 <img src="https://upload-images.jianshu.io/upload_images/12014150-1d6d5ec736410806.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image-20200722200700079" style="zoom:50%;" align="center" />
 
-<img src="/Users/doublez/Developer/Digital Media/Soul-Maze/README.assets/image-20200722200705894.png" alt="image-20200722200705894" style="zoom:50%;" align="center" />
+<img src="https://upload-images.jianshu.io/upload_images/12014150-86243fca4b703e9a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image-20200722200705894" style="zoom:50%;" align="center" />
 
 <img src="https://upload-images.jianshu.io/upload_images/12014150-76d2bc2a5b95d309.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image-20200722200712083" style="zoom:50%;" align="center" />
 
