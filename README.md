@@ -1,4 +1,4 @@
-# <img src="/Users/doublez/Developer/Digital Media/Soul-Maze/logo.png" alt="logo" width="10%;" />译梦机 | Soul Maze
+# <img src="https://upload-images.jianshu.io/upload_images/12014150-8d87ea479e20bb51.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width="10%;" />译梦机 | Soul Maze
 
 Table of Contents
 =================
