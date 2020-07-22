@@ -98,13 +98,13 @@ Table of Contents
 
 - `Assets/` `Packages/` `ProjectSettings/`: Unity工程
 - `doc/`
-  - 《译梦机》游戏设计文档.pdf
-  - 游戏程序与设计期末项目开题说明.pdf
-  - Game Program and Design Final Project Brief Introduction.pdf
-  - background.pdf
-  - logic.md
+  - [《译梦机》游戏设计文档](https://github.com/doubleZ0108/Soul-Maze/blob/master/doc/《译梦机》游戏设计文档.pdf)
+  - [游戏程序与设计期末项目开题说明](https://github.com/doubleZ0108/Soul-Maze/blob/master/doc/游戏程序与设计期末项目开题说明_含批注.pdf)
+  - [Game Program and Design Final Project Brief Introduction](https://github.com/doubleZ0108/Soul-Maze/blob/master/doc/Game_Program_and_Design_Final_Project_Brief_Introduction.pdf)
+  - [游戏背景](https://github.com/doubleZ0108/Soul-Maze/blob/master/doc/background.pdf)
+  - [游戏逻辑](https://github.com/doubleZ0108/Soul-Maze/blob/master/doc/logic.md)
 - `pre/`
-  - presentation.pdf
+  - [游戏展示](https://github.com/doubleZ0108/Soul-Maze/blob/master/pre/presentation.pdf)
 - `logo.png`
 
 <br/>
@@ -121,7 +121,7 @@ Table of Contents
 
 ## 游戏开发时间线
 
-<img src="https://upload-images.jianshu.io/upload_images/12014150-1c41ec0a903aac56.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image-20200722195227660" style="zoom:50%;" />
+<img src="https://upload-images.jianshu.io/upload_images/12014150-1c41ec0a903aac56.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image-20200722195227660" width="80%;" />
 
 | **姓名**          | **日期**   | **推进**                             | **协作形式**       |
 | ----------------- | ---------- | ------------------------------------ | ------------------ |
@@ -149,7 +149,7 @@ Table of Contents
 | **张喆**          | 6.24       | 答辩ppt制作                          | 个人完成           |
 | **全体**          | 6.24       | 项目文档完善，制定项目文档v2.0       | 合作完成           |
 
-<img src="https://upload-images.jianshu.io/upload_images/12014150-a26108387bb6b7e9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image-20200722195152619" style="zoom:50%;" />
+<img src="https://upload-images.jianshu.io/upload_images/12014150-a26108387bb6b7e9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="image-20200722195152619" width="80%;" />
 
 <br/>
 
